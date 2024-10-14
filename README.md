@@ -3,13 +3,13 @@
 This is a command-line interface app. <br/>
 The tasks specified below will allow you to practice implement topics such as conditionals, Collections, and Streams.
 
-Complete the below tasks
+### Complete the below tasks
 
 - [ ] Sort To-Do items by name: Modify the viewItemsByOrder method to use Java Streams and Comparator to sort by name.
 - [ ] Sort To-Do items by due date: Use Streams to sort by the due date.
 - [ ] View not-started items: Filter ToDo items using Streams where the status is NOT_STARTED.
 - [ ] Delete an item by name: Practice searching and deleting an item from an ArrayList using loops or removeIf.
-The tasks below require you to modify the existing code and add new methods.
+### The tasks below require you to modify the existing code and add new methods.
 - [ ] Update To-Do status: Add functionality to update an item's status to IN_PROGRESS or FINISHED.
 - [ ] Display tasks in reverse order: Add an option to display all to-do items in reverse order (by name or due date).
 - [ ] View items due before today: Use Streams to filter items whose due date is before the current date.
